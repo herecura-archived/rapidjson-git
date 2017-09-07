@@ -2,7 +2,7 @@
 
 _gitname=rapidjson
 pkgname=rapidjson-git
-pkgver=r1953.4bb4926c
+pkgver=r1958.2a53253e
 pkgrel=1
 pkgdesc="Rapidjson is an attempt to create the fastest JSON parser and generator."
 arch=('any')
